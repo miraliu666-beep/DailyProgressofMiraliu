@@ -1,0 +1,25 @@
+{
+    "editor.fontSize": 20,
+    "markdown.extension.toc.levels": "2..4",
+    "markdown.extension.toc.updateOnSave": true,
+    "markdown.extension.completion.enabled": true,
+    "markdown.extension.orderedList.marker": "one",
+    "markdown-preview-enhanced.enablePreviewZenMode": true,
+    "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css",
+    "markdown-preview-enhanced.previewTheme": "github-light.css",
+    "markdown-preview-enhanced.breakOnSingleNewLine": false,
+    "markdownlint.config": {
+        "MD033":false
+    },
+    "[markdown]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false,
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "on",
+            "other": "on"
+        }
+    }
+}
